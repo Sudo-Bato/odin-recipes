@@ -1,0 +1,21 @@
+#header-one {
+    text-align:center ;
+    font-size: 60px;
+    text-decoration: underline;
+    
+}
+
+#div-centered {
+    text-align: center;
+    font-size: 24px;
+}
+
+.ul-recipe1 {
+    color: red;
+}
+
+.bold {
+    font-weight:300 ;
+    font-style: oblique;
+
+}
